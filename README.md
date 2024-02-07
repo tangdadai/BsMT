@@ -1,5 +1,5 @@
-conda create -n Molgpt python==3.7
-conda activate Molgpt
+conda create -n ChemRB python==3.7
+conda activate ChemRB
 pip install torch
 conda install -c rdkit rdkit
 pip install tqdm
